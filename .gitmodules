@@ -1,0 +1,9 @@
+[submodule "iCartoonFace"]
+	path = iCartoonFace
+	url = https://github.com/luxiangju-PersonAI/iCartoonFace.git
+[submodule "Anime-Face-Dataset"]
+	path = Anime-Face-Dataset
+	url = https://github.com/bchao1/Anime-Face-Dataset.git
+[submodule "DigiFace1M"]
+	path = DigiFace1M
+	url = https://github.com/microsoft/DigiFace1M.git
